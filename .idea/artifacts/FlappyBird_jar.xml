@@ -32,8 +32,7 @@
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/groovy-testng-4.0.0-beta-1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/groovy-typecheckers-4.0.0-beta-1.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/lib/groovy-xml-4.0.0-beta-1.jar" path-in-jar="/" />
-      <element id="library" level="project" name="groovy-4.0.0-beta-1" />
-      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
     </root>
   </artifact>
 </component>
